@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FunDraiser</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="event_name">Название мероприятия</string>
+    <string name="participants">Участники</string>
+    <string name="create_event_button_second_action">Создать</string>
+    <string name="create_event_button">Создать</string>
+    <string name="name_event">Калик</string>
+</resources>
